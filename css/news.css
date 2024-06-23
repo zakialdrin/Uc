@@ -1,0 +1,32 @@
+    .navbar-brand {
+        display: flex;
+        align-items: center;
+        /* padding: 5px; */
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+    
+    .navbar-brand img {
+        width: 85px;
+        /* Sesuaikan dengan ukuran yang Anda inginkan */
+        height: 85px;
+        /* Sesuaikan dengan ukuran yang Anda inginkan */
+        margin-right: 0px;
+        /* Ruang antara ikon dan teks */
+    }
+    /* -- */
+    
+    .footer-logo {
+        display: flex;
+        align-items: center;
+        /* padding: 5px; */
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+    
+    .footer-logo img {
+        width: 90x;
+        height: 90px;
+    }
